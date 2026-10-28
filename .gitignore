@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Build artifacts & backups
+dist/
+build/
+backups/
+*.app/
+*.zip
+*.dmg
+*.icns
